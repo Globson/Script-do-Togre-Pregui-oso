@@ -2,3 +2,6 @@
 Script criado para separar arquivos PDFs duplicados com nomes diferentes.
 
 Os arquivos inicialmente devem ser armazenados na pasta Certificados, em seguida após rodar o script, as cópias duplicadas dos PDFs repetidos serão movidos para a pasta Repetidos, mantendo apenas uma cópia será mantida na pasta Certificados.
+
+
+Execute o makefile para executar o script.
